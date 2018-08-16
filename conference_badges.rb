@@ -8,3 +8,4 @@ end
 
 def assign_rooms 
   arrayofnames.each 
+end
