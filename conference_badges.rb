@@ -19,7 +19,7 @@ def assign_rooms (array)
 end
 
 def printer (attendees)
-  batch_badge_creator 
-  assign_rooms
+  batch_badge_creator(attendees).each {||}
+  assign_rooms(attendees).each {||}
   
 end 
