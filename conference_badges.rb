@@ -18,8 +18,8 @@ def assign_rooms (array)
  room_assignments
 end
 
-def printer 
-  batch_badge_creator
+def printer (attendees)
+  batch_badge_creator 
   assign_rooms
   
 end 
