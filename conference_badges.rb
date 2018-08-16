@@ -4,7 +4,7 @@ end
 
 def batch_badge_creator (array)
   arrayofnames = []
- array.each {|name| arrayofnames << "Hello, my name is #{name}"}
+ array.each {|name| arrayofnames << "Hello, my name is #{name}."}
 end 
 
 def assign_rooms 
