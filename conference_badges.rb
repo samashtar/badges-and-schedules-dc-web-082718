@@ -4,8 +4,8 @@ end
 
 def batch_badge_creator (array)
   arrayofnames = []
-  arrayofnames.push (array)
-  return badge_maker
+ arrayofmessages = arrayofnames.push (array)
+  return badge_maker (arrayofmessages)
 end 
 
 def assign_rooms 
