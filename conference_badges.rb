@@ -16,6 +16,8 @@ def assign_rooms (array)
    counter +=1
  end 
  room_assignments
- 
 end
 
+def printer 
+  batch_badge_creator
+  assign_rooms
