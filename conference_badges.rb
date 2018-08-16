@@ -17,5 +17,4 @@ def assign_rooms (array)
  end 
  room_assignments
  
- 
 end
